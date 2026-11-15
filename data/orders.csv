@@ -1,0 +1,6 @@
+order_id,customer,product,quantity,price
+1001,Jan,Keyboard,2,49.99
+1002,Sarah,Mouse,1,19.99
+1003,Peter,Monitor,1,199.99
+1004,Anna,Keyboard,3,49.99
+1005,David,Mouse,2,19.99
