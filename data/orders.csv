@@ -4,3 +4,5 @@ order_id,customer,product,quantity,price
 1003,Peter,Monitor,1,199.99
 1004,Anna,Keyboard,3,49.99
 1005,David,Mouse,2,19.99
+1006,Emma,Keyboard,,49.99
+1007,Lucas,Mouse,2,
